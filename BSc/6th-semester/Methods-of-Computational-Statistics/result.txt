@@ -1,0 +1,10 @@
+Model		RMSE		Liczba_zmiennych_w_modelu
+m_empty		7.382498		0
+m_myidea		5.117634		99
+m_mod_Mallows	4.527937		16
+m_mod_BIC	4.513025		16
+m		4.499298		99
+m_Mallows	4.487942		44
+m_mod		4.486804		99
+m_BIC		4.467443		10
+m_lasso		4.467148		16
