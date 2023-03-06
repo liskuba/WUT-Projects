@@ -113,3 +113,5 @@ multimodal-sparse,
 rings5-sparse,
 rings3-balance,
 xor3-balance.
+
+Author: Jan Karwowski
